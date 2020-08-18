@@ -75,6 +75,12 @@ persist.vendor.ims.disableDebugLogs=1
 persist.vendor.ims.disableIMSLogs=1
 persist.vendor.ims.disableQXDMLogs=1
 
+# Media
+vendor.vidc.dec.downscalar_height=1080
+vendor.vidc.dec.downscalar_width=2340
+vendor.vidc.enc.disable_bframes=1
+sys.display-size=3840x2160
+
 # Kernel
 ro.kernel.zio=38,108,105,16
 
