@@ -76,6 +76,17 @@ sys.ipo.pwrdncap=2
 ro.product.property_source_order=odm,vendor,product,system
 persist.sys.mdlog_dumpback=2
 
+# Ram
+ro.config.fha_enable=true
+ro.sys.fw.bg_apps_limit=32
+ro.config.dha_cached_max=16
+ro.config.dha_empty_max=42
+ro.config.dha_empty_init=32
+ro.config.dha_lmk_scale=0.545
+ro.config.dha_th_rate=2.3
+ro.config.sdha_apps_bg_max=64
+ro.config.sdha_apps_bg_min=8
+
 # Radio
 persist.sys.fflag.override.settings_provider_model=false
 vendor.rild.libpath=mtk-ril.so
