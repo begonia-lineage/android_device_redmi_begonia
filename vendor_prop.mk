@@ -17,6 +17,7 @@ PRODUCT_PROPERTY_OVERRIDES +=  \
     debug.mtk_tflite.target_nnapi=29 \
     vendor.display.idle_time=0 \
     vendor.display.idle_time_inactive=0 \
+    sys.fflag.override.settings_enable_monitor_phantom_procs=false \
     drm.service.enabled=true \
     init.userspace_reboot.is_supported=true \
     persist.adb.nonblocking_ffs=0 \
