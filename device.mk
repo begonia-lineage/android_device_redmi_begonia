@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2019-2021 The Potato Open Sauce Project
+# Copyright (C) 2022 The LineageOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -311,6 +311,7 @@ PRODUCT_PACKAGES += \
 # Trust
 PRODUCT_PACKAGES += \
     vendor.lineage.trust@1.0-service
+
 # USB
 PRODUCT_PACKAGES += \
     android.hardware.usb.gadget@1.0.vendor \
