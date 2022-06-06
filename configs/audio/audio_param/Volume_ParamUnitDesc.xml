@@ -74,6 +74,7 @@
 		<Param name="ul_hw_pga_max_idx" type="int"/>
 		<Param name="ul_pga_l_mixer_name" type="string"/>
 		<Param name="ul_pga_r_mixer_name" type="string"/>
+		<Param name="ul_pga_3rd_mixer_name" type="string"/>
 
 		<Param name="stf_gain_map" type="short_array"/>
 	</ParamUnit>
