@@ -698,7 +698,7 @@ vendor/firmware/soc3_0_ram_mcu_1_1_hdr.bin
 vendor/firmware/soc3_0_ram_mcu_1a_1_hdr.bin
 vendor/firmware/soc3_0_ram_mcu_e1_hdr.bin
 vendor/firmware/txpowerctrl.cfg
-vendor/firmware/wifi.cfg
+vendor/firmware/wifi.cfg|70b44f3025f537c9df5ef45da35d7e7fccb352d8
 
 # GPS
 vendor/bin/hw/android.hardware.gnss@2.1-service-mediatek
